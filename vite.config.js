@@ -18,8 +18,8 @@ export default defineConfig({
         'icons/icon-512x512.png'
       ],
       manifest: {
-        name: 'ORIENT',
-        short_name: 'ORIENT',
+        name: 'Veluna',
+        short_name: 'Veluna',
         description: '15 seconds to find your way',
         theme_color: '#0f172a',
         background_color: '#0f172a',
