@@ -17,7 +17,7 @@ function App() {
           fontSize: '3rem',
           marginBottom: '1rem'
         }}>
-          ORIENT
+          Veluna
         </h1>
         <p style={{ color: '#94a3b8', fontSize: '1.2rem' }}>
           15 seconds to find your way
